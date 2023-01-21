@@ -24,3 +24,9 @@ Think: simple state management: setting on chain key/value pairs based on input 
 Do not think: typical complex DeFi stuff. Maybe a simple custody-hook based on state, but maybe that's already too much.
 
 Keep it simple.  We much rather get a compiler ready that does the basic things amazingly well, but comes with restrictions we can work on later.
+
+## And now what?
+
+- Create an issue
+- Add an outline of your idea
+- Add your code (e.g. inline, in triple backticks, or referring to a Gist / PR / ..)
