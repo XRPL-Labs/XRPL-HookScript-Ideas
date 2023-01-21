@@ -25,7 +25,7 @@ Do not think: typical complex DeFi stuff. Maybe a simple custody-hook based on s
 
 Keep it simple.  We much rather get a compiler ready that does the basic things amazingly well, but comes with restrictions we can work on later.
 
-## And now what?
+## And now what (how to submit an idea & code)?
 
 - Create an issue
 - Add an outline of your idea
